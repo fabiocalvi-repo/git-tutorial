@@ -1,0 +1,10 @@
+.idea/
+*.iml
+log.basePath_IS_UNDEFINED/
+logs/
+target/
+.metadata/
+*.classpath
+*.settings
+*.springBeans
+*.project
